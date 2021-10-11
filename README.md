@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=maru%20&fontSize=70)
+<div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=maru%20&fontSize=70)
+</div>
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)](github.com/Joowon0220/TODO-List)
