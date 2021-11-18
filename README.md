@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=maru%20&fontSize=70)
-
 ⚡**Skills**
 
 [![JAVA](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]()
