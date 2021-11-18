@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=maru%20&fontSize=70)
 
-⚡Skills
+⚡**Skills**
+
 [![JAVA](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]()
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]()
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)]()
