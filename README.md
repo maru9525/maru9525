@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡**Skills** !
+⚡**Skills** !!
 
 [![JAVA](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=black)]()
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]()
