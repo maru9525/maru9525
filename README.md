@@ -13,11 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-2025.1.1 1일 1커밋 기록 시작
-
-⚡**Skills** !!
-
-[![JAVA](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=black)]()
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]()
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)]()
-[![Docker](https://img.shields.io/badge/Docker-6DB33F?style=flat-square&logo=Docker&logoColor=black)]()
+** 2025.1.1 1일 1커밋 기록 시작
