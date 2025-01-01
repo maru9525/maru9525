@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+2025.1.1 1일 1커밋 기록 시작
 
 ⚡**Skills** !!
 
